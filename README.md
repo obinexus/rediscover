@@ -74,4 +74,4 @@ The wheel is ready. Now we build the roads.
 *   **The Raw Testimony:** [OBINexus Rants](https://github.com/obinexus/rants)
 *   **The Philosophical Foundation:** [Persona Development on Medium](https://medium.com/@obinexus/persona-development-framework-a-proposal-for-life-work-balance-methodology-development-for-those-09d52fffda1b)
 
-**Tagline:** *Healing the Generation, One Authentic Expression at a Time.*
+**Tagline:** *Healing the Generations Left Behind, The Healing Continues , One Authentic Expression at a Time.*
